@@ -1,0 +1,40 @@
+/* Dashboard.css */
+
+.dashboard {
+    padding: 20px;
+    margin-top: 10vh;
+    text-align: start;
+  }
+  
+  .card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+    gap: 20px;
+  }
+  
+  .card {
+    text-align: center;
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .card-text {
+    font-size: 1.25rem;
+    margin-bottom: 20px;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* Styling for the buttons */
+  .button-container .btn {
+    margin-right: 10px;
+  }
+  
+  /* Add more custom styling as needed */
+  
