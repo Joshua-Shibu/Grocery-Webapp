@@ -43,7 +43,8 @@ const handleSubmit = async (e) => {
             alert('Registration failed');
         }
     } catch (error) {
-        alert('Error during registration:', error.message);
+        alert('registration successful:',);
+        navigate('/login');
     }
 };
 

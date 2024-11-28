@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 
 export const HomeContainer = styled.section`
-  background-image: url('https://i.ytimg.com/vi/WF5P33sdCp8/maxresdefault.jpg');
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRujAsM2AM-cYLBStG3IIwu_0xPZbwRU7XhrA&s');
   background-size: cover;
   background-position: center;
   color: #000;
